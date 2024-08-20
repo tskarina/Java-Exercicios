@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/exercicioDB.iml" filepath="$PROJECT_DIR$/.idea/exercicioDB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC - Exercicios/jdbc - atualizandoDados/jdbc - atualizandoDados.iml" filepath="$PROJECT_DIR$/JDBC - Exercicios/jdbc - atualizandoDados/jdbc - atualizandoDados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC - Exercicios/jdbc - deletandoDados/jdbc - deletandoDados.iml" filepath="$PROJECT_DIR$/JDBC - Exercicios/jdbc - deletandoDados/jdbc - deletandoDados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC - Exercicios/jdbc - transacao/jdbc - transacao.iml" filepath="$PROJECT_DIR$/JDBC - Exercicios/jdbc - transacao/jdbc - transacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC - Exercicios/jdbc-criandoConexao/jdbc-criandoConexao.iml" filepath="$PROJECT_DIR$/JDBC - Exercicios/jdbc-criandoConexao/jdbc-criandoConexao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC - Exercicios/jdbc-inserirDados/jdbc-inserirDados.iml" filepath="$PROJECT_DIR$/JDBC - Exercicios/jdbc-inserirDados/jdbc-inserirDados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC - Exercicios/jdbc-recuperandoDados/jdbc-recuperandoDados.iml" filepath="$PROJECT_DIR$/JDBC - Exercicios/jdbc-recuperandoDados/jdbc-recuperandoDados.iml" />
+    </modules>
+  </component>
+</project>
